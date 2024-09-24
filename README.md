@@ -4,6 +4,7 @@
 - [x]  Summary
 - [x]  Data handling
 - [x]  Data cleaning
-- [ ]  Univariate analysis
-- [ ]  Bivariate analysis
-- [ ]  Multivariate analysis
+- [x]  Univariate analysis
+- [x]  Bivariate analysis
+- [x]  Multivariate analysis
+- [ ]  Time series analysis
