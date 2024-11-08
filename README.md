@@ -8,3 +8,8 @@
 - [x]  Bivariate analysis
 - [x]  Multivariate analysis
 - [x]  Time series analysis
+- [ ]  1-D Analysis
+- [ ]  2-D Analysis
+- [ ]  n-D Analysis
+- [ ]  Spectral Clustering(K-means, along with dendrogram) and detection of outliers
+- [ ]  PCA
