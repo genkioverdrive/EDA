@@ -7,4 +7,4 @@
 - [x]  Univariate analysis
 - [x]  Bivariate analysis
 - [x]  Multivariate analysis
-- [ ]  Time series analysis
+- [x]  Time series analysis
